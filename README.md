@@ -1,0 +1,2 @@
+# nrc2888
+Grupo NRC 2888 Ciclo 4a MINTIC UNINORTE 2022-2
