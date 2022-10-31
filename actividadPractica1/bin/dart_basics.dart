@@ -1,5 +1,6 @@
 import 'dart:io';
-import 'package:dart_basics/main.dart';
+
+import '../lib/main.dart';
 
 void main(List<String> arguments) {
   // ignore: todo

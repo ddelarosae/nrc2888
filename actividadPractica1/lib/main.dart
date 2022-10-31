@@ -1,4 +1,4 @@
-import 'package:dart_basics/converter.dart';
+import 'converter.dart';
 
 class MainConverter {
   // ignore: todo
