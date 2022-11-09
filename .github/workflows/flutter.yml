@@ -26,4 +26,5 @@ jobs:
           flutter-version: '3.3.8'
       #- run: flutter pub pub add flutter_svg
       - run: flutter pub get
+      - run: cd sesion5_4
       - run: flutter test
