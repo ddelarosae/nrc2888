@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-//ajustes
+//ajustes menores
 void main() {
   try {
     throw ('todo bien');
