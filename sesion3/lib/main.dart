@@ -8,35 +8,35 @@ class HomePage extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('Theme example'),
+        title: const Text('Theme example'),
       ),
       body: Column(
         mainAxisAlignment: MainAxisAlignment.spaceAround,
         children: [
-          Center(child: Text('My text')),
+          const Center(child: Text('My text')),
           ElevatedButton(
               onPressed: () {
                 Get.changeThemeMode(
                     Get.isDarkMode ? ThemeMode.light : ThemeMode.dark);
               },
-              child: Text('ElevatedButton - Change theme')),
+              child: const Text('ElevatedButton - Change theme')),
           OutlinedButton(
               onPressed: () {
                 Get.changeThemeMode(
                     Get.isDarkMode ? ThemeMode.light : ThemeMode.dark);
               },
-              child: Text('Outlined Button')),
+              child: const Text('Outlined Button')),
           TextButton(
               onPressed: () {
                 Get.changeThemeMode(
                     Get.isDarkMode ? ThemeMode.light : ThemeMode.dark);
               },
-              child: Text('Text Button')),
+              child: const Text('Text Button')),
         ],
       ),
       floatingActionButton: FloatingActionButton(
         onPressed: () {},
-        child: Icon(Icons.add),
+        child: const Icon(Icons.add),
       ),
     );
   }
