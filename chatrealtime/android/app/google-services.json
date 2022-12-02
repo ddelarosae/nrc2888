@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "446266596805",
+    "project_id": "chatrealtime-d0c5a",
+    "storage_bucket": "chatrealtime-d0c5a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:446266596805:android:9574845e78b5c00dc73fac",
+        "android_client_info": {
+          "package_name": "com.example.chatrealtime"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "446266596805-mvjejfubb34b8qtr50cei3qd38rcs7tl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chatrealtime",
+            "certificate_hash": "35d1f4a57a3203396e12de2ebd35d047f3265209"
+          }
+        },
+        {
+          "client_id": "446266596805-vnft5i53m075nrh0qt1vhu3vu5jet30b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRbjB1V5aicUct3h8v_j5EBrfqjopYd5Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "446266596805-vnft5i53m075nrh0qt1vhu3vu5jet30b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
