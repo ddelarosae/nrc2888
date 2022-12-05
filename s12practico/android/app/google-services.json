@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "202028666697",
+    "project_id": "crudnrc2288",
+    "storage_bucket": "crudnrc2288.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:202028666697:android:07ba4bf7c435dea075d498",
+        "android_client_info": {
+          "package_name": "com.example.s12practico"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "202028666697-qqk5q62u41d2oqir7es6qs31m90b47cl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.s12practico",
+            "certificate_hash": "35d1f4a57a3203396e12de2ebd35d047f3265209"
+          }
+        },
+        {
+          "client_id": "202028666697-fhq7j2k7q1iebo4goe42ovj576jea7hu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNcnWqDcwjsSYQ_bj5GvwkZ5djQ89Thvs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "202028666697-fhq7j2k7q1iebo4goe42ovj576jea7hu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
